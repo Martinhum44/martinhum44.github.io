@@ -1,0 +1,30 @@
+body{
+    background: -webkit-linear-gradient(to right, #cbb4d4, #20002c);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #cbb4d4, #20002c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    align-items: center;
+}
+img:hover{
+    opacity: 0.8;
+}
+.row{
+  padding-top: 20px;
+}
+.h{
+  align-items: center;
+}
+.videode{
+  align-items: center;
+}
+.video{
+  display:flex;
+  justify-content: center;
+}
+button{
+  height: 2cm;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background: -webkit-linear-gradient(to right, #5e5e5e, #ff0000);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #5e5e5e, #ff0000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+button:hover{
+  opacity: 0.6;
+}
